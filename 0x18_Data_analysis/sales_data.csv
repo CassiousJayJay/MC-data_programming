@@ -1,0 +1,20 @@
+Product,Product category,Quantity,Revenue
+Laptop,Electronics,10,500
+Smartphone,Electronics,20,8000
+T-Shirt,Apparel,50,1000
+Shoe,Apparel,30,4000
+Headphone,Electronics,15,3000
+Tablet,Electronics,13,6000
+Sock,Apparel,20,700
+Bag,Apparel,24,8000
+Envelope,Stationary,25,7000
+Pen,Stationary,35,3500
+Neck_Ties,Apparel,45,4500
+Printer,Electronics,27,3000
+Laminator,Electronics,55,5000
+Hoodie,Apparel,60,600
+Jackect,Apparel,70,60000
+Television,Electronics,80,300
+Radio,Electronics,90,700
+USB-cable,Electronics,47,400
+Flash-Disc,Electronics,95,800
